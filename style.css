@@ -1,0 +1,22 @@
+img {
+    width: 500px;
+}
+/*
+.playwrite-au-nsw-<uniquifier> {
+  font-family: "Playwrite AU NSW", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}*/
+body {
+    text-align: center;
+    font-family: 'Playwrite AU NSW';
+    background: rgb(203, 177, 255);
+    color:rgb(77, 41, 27);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p {
+    overflow-wrap: break-word;
+}
